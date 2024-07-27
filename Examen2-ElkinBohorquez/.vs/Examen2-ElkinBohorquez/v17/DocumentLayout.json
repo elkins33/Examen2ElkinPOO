@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Elkin\\Desktop\\Examen-U2 -POO\\Examen2-ElkinBohorquez\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50922648-BC69-4FC3-8F5E-06474C2FDDFC}|Examen2-ElkinBohorquez.csproj|c:\\users\\elkin\\desktop\\examen-u2 -poo\\examen2-elkinbohorquez\\controllers\\dbprestamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50922648-BC69-4FC3-8F5E-06474C2FDDFC}|Examen2-ElkinBohorquez.csproj|solutionrelative:controllers\\dbprestamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBPrestamoController.cs",
+              "DocumentMoniker": "C:\\Users\\Elkin\\Desktop\\Examen-U2 -POO\\Examen2-ElkinBohorquez\\Controllers\\DBPrestamoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DBPrestamoController.cs",
+              "ToolTip": "C:\\Users\\Elkin\\Desktop\\Examen-U2 -POO\\Examen2-ElkinBohorquez\\Controllers\\DBPrestamoController.cs",
+              "RelativeToolTip": "Controllers\\DBPrestamoController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowEgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T01:05:58.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
