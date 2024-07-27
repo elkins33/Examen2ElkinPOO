@@ -25,7 +25,7 @@ namespace Examen2_ElkinBohorquez.Controllers
             
             if (loanRequest == null || loanRequest.LoanAmount <= 0 || loanRequest.Term <= 0)
             {
-                return BadRequest("Invalid loan request.");
+                return BadRequest("Esa solicitu de prestamo es invalida!");
             }
 
            
@@ -65,7 +65,7 @@ namespace Examen2_ElkinBohorquez.Controllers
 
             return Ok(new
             {
-                message = "Loan and amortization plan successfully created.",
+                message = "El paln de prestamo y amortizacion fue creado exitosamente",
                 amortizationPlan
             });
         }
